@@ -16,9 +16,7 @@
 
 ## About me
 
-I'm a Data & AI Developer. I build data-driven solutions, from interactive dashboards and reporting platforms to automation tools and modern web applications.
-
-My goal is to help teams and decision-makers turn their data into clear, reliable decisions, and to free them from repetitive work. I work across the whole data chain, from collecting and cleaning data to modelling, visualisation and machine learning, and I deliver projects for clients in Côte d'Ivoire and London.
+I build data-driven solutions, from interactive dashboards and reporting platforms to automation tools and modern web applications.
 
 - Master 1 in Big Data Analytics & AI
 - Certified in Data Science, Data Analytics, Generative AI and Web Development (Africitizen, GOMYCODE, UVCI, UN-CHK – FORCE-N)
