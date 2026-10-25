@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Ismaël Traoré M.</h1>
 <h3 align="center">Data & AI Developer · Web Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Power+BI+dashboards+for+decision-makers;Training+and+explaining+Machine+Learning+models;Automating+workflows+with+Make%2C+n8n+and+Apps+Script;Developing+web+apps+with+Next.js+and+NestJS;Turning+raw+data+into+business+insights" alt="Typing SVG">
+</p>
+
 <p align="center">Turning data into decision-making tools: dashboards, data pipelines, machine learning models and web applications.</p>
 
 <p align="center">
