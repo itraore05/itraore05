@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ismaël Traoré M.</h1>
-<h3 align="center">Data & AI Developer · Web Developer</h3>
+<h3 align="center">Data & AI Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+dashboards+%26+platforms+for+decision-makers;Turning+raw+data+into+clear+business+decisions;Automating+repetitive+tasks+to+save+teams+hours;Making+AI+models+useful+and+explainable;Creating+web+apps+that+clients+actually+use" alt="Typing SVG">
