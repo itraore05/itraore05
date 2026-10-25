@@ -1,72 +1,122 @@
-<h1 align="center">Ismaël Traoré</h1>
-<h3 align="center">Développeur Data & IA · Data Analyst · Développeur web</h3>
+<h1 align="center">Hi, I'm Ismaël Traoré M.</h1>
+<h3 align="center">Data & AI Developer · Data Analyst · Web Developer</h3>
 
-<p align="center">
-Je transforme les données en outils de décision : tableaux de bord, pipelines de données, modèles de Machine Learning et applications web.
-</p>
+<p align="center">Turning data into decision-making tools: dashboards, data pipelines, machine learning models and web applications.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ismael-traor%C3%A9-m-4007a2225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact.traoreimael@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:contact.traoreimael@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 👨‍💻 À propos
+## About me
 
-- 💼 **Développeur Data & IA** en entreprise : tableaux de bord clients, plateformes de reporting pour les équipes terrain et la direction, automatisation
-- 🎓 **Master 1 Big Data Analytics & IA** à l'UVCI (Licence Informatique & Sciences du Numérique, option développement d'applications)
-- 📊 **Data Analyst certifié** (GoMyCode)
-- 🤝 **Président de GO-Connect**, réseau des alumni GoMyCode, et **ambassadeur de 10 000 Codeurs CI**
-- 🌍 Projets réalisés pour des clients en **Côte d'Ivoire** et à **Londres**
+I'm a Data & AI Developer. In my current role, I build client dashboards, reporting platforms for field teams and management, and automation tools.
 
-## 🛠️ Compétences
+I work across the whole data chain: collecting and cleaning data with Python, modelling it and building Power BI reports, training and explaining machine learning models. I also build modern web applications with Next.js, React and Laravel, for clients in Côte d'Ivoire and London.
 
-**Data & BI** : Power BI (DAX, Power Query) · Excel · SQL · modélisation en étoile
+- Master 1 in Big Data Analytics & AI
+- Certified Data Analyst (GoMyCode)
+- President of GO-Connect, the GoMyCode alumni network, and ambassador of 10 000 Codeurs CI
 
-**Data Science & IA** : Python · pandas · NumPy · scikit-learn · XGBoost · LightGBM · SHAP · Jupyter
+## Tech stack
 
-**Web** : Next.js · React · TypeScript · Tailwind CSS · Laravel · Payload CMS · PostgreSQL · MySQL
-
-**Outils** : Git · GitHub · Vercel · Google Apps Script · AppSheet
+**Data & BI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,mysql,postgres,nextjs,react,ts,tailwind,laravel,php,git,github,vercel,vscode&perline=14" alt="Compétences">
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="40" alt="Power BI" title="Power BI">&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="40" alt="Excel" title="Excel">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL / SQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL">
 </p>
 
-## 🚀 Projets à la une
+**Data Science & AI**
 
-| Projet | Domaine | Stack |
-|---|---|---|
-| [📊 Dashboard Expérience Client](https://github.com/itraore05/dashboard-experience-client-powerbi) | BI · projet client | Power BI, DAX (155 mesures), IA sur verbatims |
-| [🏛️ Tableau de bord Direction Générale](https://github.com/itraore05/dashboard-direction-generale-powerbi) | BI · projet client | Power BI, DAX, maquette HTML / Chart.js |
-| [☕ ML hybride : maladies du caféier](https://github.com/itraore05/ml-hybride-maladies-feuilles-cafe) | Machine Learning | Clustering + Random Forest / LightGBM (92,9 %), SHAP |
-| [🤝 Family of Abraham](https://github.com/itraore05/family-of-abraham-website) | Web · projet client | Next.js 16, Payload CMS, PostgreSQL |
-| [🎙️ Rhemah Studio](https://github.com/itraore05/rhemah-studio-website) | Web · projet client | Next.js 16, React 19, TypeScript |
-| [🛡️ Cyber Africa Forum : tendances LinkedIn](https://github.com/itraore05/cyber-africa-forum-tendances-linkedin) | Data · scraping + BI | Python, Selenium, Power BI |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="pandas">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter">
+</p>
+
+**Web**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" title="PHP">
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">
+</p>
+
+## Featured projects
+
+### [Customer Experience Dashboard](https://github.com/itraore05/dashboard-experience-client-powerbi)
+5-page Power BI report measuring customer experience for a public social security organisation: CSAT, CES, NPS, a customer experience index, AI-enriched customer comments, automatic alerts and a corrective action plan. Real client project.
+
+**Stack:** Power BI · DAX (155 measures) · Power Query · star schema
+
+### [Executive Management Dashboard](https://github.com/itraore05/dashboard-direction-generale-powerbi)
+Power BI dashboard for the general management of the same organisation: contributions, benefits, finances and new schemes over 2010-2025. Indicators are built to display real figures as soon as the data is collected, without rebuilding the report. Real client project.
+
+**Stack:** Power BI · DAX · Power Query · HTML / Chart.js prototype
+
+### [Hybrid ML: Coffee Leaf Disease Detection](https://github.com/itraore05/ml-hybride-maladies-feuilles-cafe)
+Detection of coffee leaf rust from multispectral data. Clustering results (GMM, K-Means, consensus) become new features for the classifiers: 92.9% accuracy with Random Forest and LightGBM, validated with statistical tests and explained with SHAP.
+
+**Stack:** Python · scikit-learn · LightGBM · XGBoost · SHAP
+
+### [Family of Abraham](https://github.com/itraore05/family-of-abraham-website)
+Bilingual (FR / EN) website for a London-based association, with a built-in CMS so the team can manage all content themselves. Real client project.
+
+**Stack:** Next.js 16 · Payload CMS · PostgreSQL · next-intl · Tailwind CSS
+
+### [Rhemah Studio](https://github.com/itraore05/rhemah-studio-website)
+Bilingual (FR / EN) website for a music production studio in London: booking, contact forms, UK GDPR compliance and international SEO. Real client project.
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Vercel
+
+### [Cyber Africa Forum: LinkedIn Trends](https://github.com/itraore05/cyber-africa-forum-tendances-linkedin)
+Monitoring tool that collects LinkedIn posts, cleans them with Python and presents cybersecurity and AI trends in Africa in a Power BI dashboard.
+
+**Stack:** Python · Selenium · pandas · Power BI
 
 <details>
-<summary><b>Voir tous les projets</b></summary>
+<summary><b>All projects</b></summary>
 
 **Business Intelligence**
-- [OptiVentes 360 : analyse des ventes](https://github.com/itraore05/optiventes-360-analyse-ventes)
-- [Fintech et inclusion financière en Afrique de l'Ouest](https://github.com/itraore05/fintech-inclusion-financiere-afrique-ouest)
-- [NOVATEK : analyse financière](https://github.com/itraore05/novatek-analyse-financiere-powerbi)
-- [Work Order : backlog de maintenance](https://github.com/itraore05/workorder-dashboard-powerbi)
-- [Supermarket Sales](https://github.com/itraore05/supermarket-sales-analyse-powerbi)
+- [OptiVentes 360: sales performance analysis](https://github.com/itraore05/optiventes-360-analyse-ventes)
+- [Fintech & financial inclusion in West Africa](https://github.com/itraore05/fintech-inclusion-financiere-afrique-ouest)
+- [NOVATEK: financial performance analysis](https://github.com/itraore05/novatek-analyse-financiere-powerbi)
+- [Work Order: maintenance backlog dashboard](https://github.com/itraore05/workorder-dashboard-powerbi)
+- [Supermarket Sales analysis](https://github.com/itraore05/supermarket-sales-analyse-powerbi)
 
 **Data Science & Machine Learning**
-- [Classification de l'occupation du sol (données satellitaires)](https://github.com/itraore05/ml-classification-occupation-sol)
-- [Nettoyage de données pour l'IA](https://github.com/itraore05/nettoyage-donnees-ia-python)
-- [Scraper de produits e-commerce](https://github.com/itraore05/ecommerce-product-scraper)
+- [Land cover classification from satellite data](https://github.com/itraore05/ml-classification-occupation-sol)
+- [Data cleaning pipeline for AI](https://github.com/itraore05/nettoyage-donnees-ia-python)
+- [E-commerce product scraper](https://github.com/itraore05/ecommerce-product-scraper)
 
-**Développement web**
-- [CiviloNet : plateforme d'état civil en ligne (Laravel)](https://github.com/itraore05/civilonet_civi)
+**Web development**
+- [Rhemah Studio: music studio website (Next.js)](https://github.com/itraore05/rhemah-studio-website)
+- [Family of Abraham: association website and CMS (Next.js, Payload)](https://github.com/itraore05/family-of-abraham-website)
+- [CiviloNet: online civil registry platform (Laravel)](https://github.com/itraore05/civilonet_civi)
 
 </details>
 
-## 📫 Me contacter
+## Contact
 
-Ouvert aux opportunités et collaborations en **Data**, **IA** et **développement web**.
+Open to opportunities and collaborations in data, AI and web development.
 
-📧 [contact.traoreimael@gmail.com](mailto:contact.traoreimael@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ismael-traor%C3%A9-m-4007a2225/)
+[contact.traoreimael@gmail.com](mailto:contact.traoreimael@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ismael-traor%C3%A9-m-4007a2225/)
