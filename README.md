@@ -14,7 +14,7 @@
 
 I'm a Data & AI Developer. In my current role, I build client dashboards, reporting platforms for field teams and management, and automation tools.
 
-I work across the whole data chain: collecting and cleaning data with Python, modelling it and building Power BI reports, training and explaining machine learning models. I also build modern web applications with Next.js, React and Laravel, for clients in Côte d'Ivoire and London.
+I work across the whole data chain: collecting and cleaning data with Python, modelling it and building Power BI reports, training and explaining machine learning models. I also build modern web applications with Next.js, React and NestJS, for clients in Côte d'Ivoire and London.
 
 - Master 1 in Big Data Analytics & AI
 - Certified in Data Science, Data Analytics, Generative AI and Web Development (Africitizen, GOMYCODE, UVCI, UN-CHK – FORCE-N)
@@ -59,11 +59,13 @@ Also: AppSheet (no-code business apps)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" title="PHP">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase">&nbsp;
+  <img src="https://cdn.simpleicons.org/chartdotjs" height="40" alt="Chart.js" title="Chart.js">&nbsp;
+  <img src="https://img.icons8.com/fluency/96/api.png" height="40" alt="REST API" title="REST API">
 </p>
 
 **Tools**
