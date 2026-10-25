@@ -17,7 +17,7 @@ I'm a Data & AI Developer. In my current role, I build client dashboards, report
 I work across the whole data chain: collecting and cleaning data with Python, modelling it and building Power BI reports, training and explaining machine learning models. I also build modern web applications with Next.js, React and Laravel, for clients in Côte d'Ivoire and London.
 
 - Master 1 in Big Data Analytics & AI
-- Certified in Data Science, Data Analytics and Web Development (Africitizen, GOMYCODE, UVCI)
+- Certified in Data Science, Data Analytics, Generative AI and Web Development (Africitizen, GOMYCODE, UVCI, UN-CHK – FORCE-N)
 
 ## Tech stack
 
@@ -28,6 +28,8 @@ I work across the whole data chain: collecting and cleaning data with Python, mo
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="40" alt="Excel" title="Excel">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL / SQL">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" title="SQL Server">&nbsp;
+  <img src="https://cdn.simpleicons.org/neon" height="40" alt="Neon" title="Neon">&nbsp;
   <img src="https://cdn.simpleicons.org/looker" height="40" alt="Looker Studio" title="Looker Studio">&nbsp;
   <img src="https://img.icons8.com/color/96/google-sheets.png" height="40" alt="Google Sheets" title="Google Sheets">
 </p>
@@ -60,7 +62,8 @@ Also: AppSheet (no-code business apps)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" title="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" title="PHP">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase">
 </p>
 
 **Tools**
@@ -70,6 +73,7 @@ Also: AppSheet (no-code business apps)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker">&nbsp;
   <img src="https://cdn.simpleicons.org/odoo" height="40" alt="Odoo" title="Odoo">
 </p>
 
