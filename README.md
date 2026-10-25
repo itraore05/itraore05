@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ismaël Traoré M.</h1>
-<h3 align="center">Data & AI Developer · Data Analyst · Web Developer</h3>
+<h3 align="center">Data & AI Developer · Web Developer</h3>
 
 <p align="center">Turning data into decision-making tools: dashboards, data pipelines, machine learning models and web applications.</p>
 
@@ -17,8 +17,7 @@ I'm a Data & AI Developer. In my current role, I build client dashboards, report
 I work across the whole data chain: collecting and cleaning data with Python, modelling it and building Power BI reports, training and explaining machine learning models. I also build modern web applications with Next.js, React and Laravel, for clients in Côte d'Ivoire and London.
 
 - Master 1 in Big Data Analytics & AI
-- Certified Data Analyst (GoMyCode)
-- President of GO-Connect, the GoMyCode alumni network, and ambassador of 10 000 Codeurs CI
+- Certified in Data Science, Data Analytics and Web Development (Africitizen, GOMYCODE, UVCI)
 
 ## Tech stack
 
@@ -28,8 +27,20 @@ I work across the whole data chain: collecting and cleaning data with Python, mo
   <img src="https://img.icons8.com/color/96/power-bi.png" height="40" alt="Power BI" title="Power BI">&nbsp;
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="40" alt="Excel" title="Excel">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL / SQL">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+  <img src="https://cdn.simpleicons.org/looker" height="40" alt="Looker Studio" title="Looker Studio">&nbsp;
+  <img src="https://img.icons8.com/color/96/google-sheets.png" height="40" alt="Google Sheets" title="Google Sheets">
 </p>
+
+**Automation**
+
+<p>
+  <img src="https://cdn.simpleicons.org/make" height="40" alt="Make" title="Make">&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n" title="n8n">&nbsp;
+  <img src="https://cdn.simpleicons.org/googleappsscript" height="40" alt="Google Apps Script" title="Google Apps Script">
+</p>
+
+Also: AppSheet (no-code business apps)
 
 **Data Science & AI**
 
@@ -58,7 +69,8 @@ I work across the whole data chain: collecting and cleaning data with Python, mo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">&nbsp;
+  <img src="https://cdn.simpleicons.org/odoo" height="40" alt="Odoo" title="Odoo">
 </p>
 
 ## Featured projects
